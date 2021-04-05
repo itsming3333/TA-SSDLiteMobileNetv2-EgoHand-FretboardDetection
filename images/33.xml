@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>33.PNG</filename>
+	<path>D:\KULIAH\Skripsi\TA-guitar-dataset\image\33.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>336</width>
+		<height>223</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fretboard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>174</ymin>
+			<xmax>255</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+</annotation>
